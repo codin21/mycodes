@@ -1,2 +1,3 @@
-fdsjngvldf
-aadf
+#include<stdio.h>
+
+return;
